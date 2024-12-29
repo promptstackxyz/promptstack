@@ -1,5 +1,5 @@
 # Prompt Stack
-promptstack.xyz / CA: Coming Soon.
+promptstack.xyz / CA: 5ZdDNjYtP2QCrvfyD2WREwVtm6inocWqN3Wxzc1apump
 
 > Prompt Stack is an tool for building web applications through an AI-powered chat interface. Create quick MVPs and prototypes using natural language prompts.
 
