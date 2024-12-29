@@ -1,5 +1,5 @@
 # Prompt Stack
-promptstack.xyz / CA: KESo9kUQK1AZFiSh39GZDq6QhZMMe3W1sw12cJupump
+promptstack.xyz / CA: Hek1igfKttJmAujDXaCGTMU3GvTGwzNyJKH6ueJspump
 
 > Prompt Stack is an tool for building web applications through an AI-powered chat interface. Create quick MVPs and prototypes using natural language prompts.
 
